@@ -25,6 +25,7 @@ export async function initializeDatabase() {
         )
       `)
   
+      
   
       // Crear tabla de quiz_completados
       await client.query(`
