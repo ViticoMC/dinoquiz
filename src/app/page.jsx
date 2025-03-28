@@ -3,6 +3,7 @@ import {initializeDatabase} from "./seeds/routes"
 
 export default function Page(){
 
+    console.log("hola")
     const {success, message} =  initializeDatabase()
 
     if(!success){
