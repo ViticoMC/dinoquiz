@@ -1,0 +1,54 @@
+{
+    "questions": [
+      {
+        "question": "¿En qué año terminó la Segunda Guerra Mundial?",
+        "options": ["1943", "1945", "1950", "1939"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "¿Quién fue el primer presidente de los Estados Unidos?",
+        "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "¿Qué imperio dominó gran parte de Sudamérica antes de la llegada de los españoles?",
+        "options": ["Imperio Azteca", "Imperio Inca", "Imperio Maya", "Imperio Romano"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "¿Cuál fue la capital del Imperio Bizantino?",
+        "options": ["Roma", "Atenas", "Constantinopla", "Jerusalén"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "¿Qué evento inició la Primera Guerra Mundial en 1914?",
+        "options": ["La invasión de Polonia", "El hundimiento del Titanic", "El asesinato del Archiduque Francisco Fernando", "La Revolución Rusa"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "¿Quién escribió 'El Príncipe', un tratado sobre política del Renacimiento?",
+        "options": ["Maquiavelo", "Dante Alighieri", "Leonardo da Vinci", "Galileo Galilei"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "¿Qué civilización antigua construyó los famosos Jardines Colgantes?",
+        "options": ["Egipcios", "Griegos", "Babilonios", "Persas"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "¿En qué siglo llegó Cristóbal Colón a América?",
+        "options": ["XV (1492)", "XVI (1502)", "XIV (1392)", "XVII (1602)"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "¿Qué dinastía gobernó China durante la construcción de la Gran Muralla?",
+        "options": ["Dinastía Ming", "Dinastía Qin", "Dinastía Han", "Dinastía Tang"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "¿Qué país lideró la Revolución Industrial en el siglo XVIII?",
+        "options": ["Francia", "Alemania", "Estados Unidos", "Reino Unido"],
+        "correctAnswer": 4
+      }
+    ]
+  }

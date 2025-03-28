@@ -1,0 +1,54 @@
+{
+    "questions": [
+      {
+        "question": "¿Qué director filmó 'El Padrino' (1972)?",
+        "options": ["Martin Scorsese", "Steven Spielberg", "Francis Ford Coppola", "Alfred Hitchcock"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "¿Qué película ganó el primer Oscar a Mejor Película en 1929?",
+        "options": ["El cantante de jazz", "Alas", "Lo que el viento se llevó", "Metrópolis"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "¿Qué actor interpretó a Jack Sparrow en 'Piratas del Caribe'?",
+        "options": ["Orlando Bloom", "Johnny Depp", "Geoffrey Rush", "Leonardo DiCaprio"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "¿En qué película aparece la frase 'Hasta la vista, baby'?",
+        "options": ["RoboCop", "Terminator 2", "Predator", "Matrix"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "¿Qué película de animación de Disney está basada en la historia de Hamlet?",
+        "options": ["El Rey León", "Frozen", "Mulán", "Pocahontas"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "¿Cuál fue la primera película de Marvel Studios del UCM (Universo Cinematográfico de Marvel)?",
+        "options": ["Iron Man", "Thor", "Capitán América", "Los Vengadores"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "¿Qué película tiene un personaje llamado Hannibal Lecter?",
+        "options": ["Seven", "El silencio de los inocentes", "Zodiac", "Shutter Island"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "¿Qué director es conocido por sus películas con escenas en plano-secuencia como 'Birdman'?",
+        "options": ["Quentin Tarantino", "Alejandro González Iñárritu", "Christopher Nolan", "Wes Anderson"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "¿Qué película protagonizó Tom Hanks como un naufrago en una isla desierta?",
+        "options": ["La milla verde", "Náufrago", "Forrest Gump", "El puente de los espías"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "¿Qué película tiene la famosa escena de baile en las escaleras con 'Singin' in the Rain'?",
+        "options": ["Cantando bajo la lluvia", "La naranja mecánica", "Un americano en París", "Grease"],
+        "correctAnswer": 2
+      }
+    ]
+  }

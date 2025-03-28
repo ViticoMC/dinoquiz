@@ -1,0 +1,54 @@
+{
+    "questions": [
+      {
+        "question": "¿Cuál es el animal más grande del planeta?",
+        "options": ["Elefante africano", "Ballena azul", "Tiburón ballena", "Jirafa"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "¿Qué animal tiene la mordida más fuerte en relación a su tamaño?",
+        "options": ["Cocodrilo", "Hipopótamo", "Tasmania devil (Demonio de Tasmania)", "Escarabajo rinoceronte"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "¿Cuántos corazones tiene un pulpo?",
+        "options": ["1", "2", "3", "4"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "¿Qué mamífero pone huevos?",
+        "options": ["Ornitorrinco", "Koala", "Zarigüeya", "Equidna"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "¿Qué porcentaje de su ADN comparten los humanos con los chimpancés?",
+        "options": ["78%", "89%", "95%", "98%"],
+        "correctAnswer": 4
+      },
+      {
+        "question": "¿Qué animal puede girar su cabeza 270 grados?",
+        "options": ["Lechuza", "Camaleón", "Geco", "Búho"],
+        "correctAnswer": 4
+      },
+      {
+        "question": "¿Cuál es el único mamífero capaz de volar?",
+        "options": ["Ardilla voladora", "Murciélago", "Lémur volador", "Colugo"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "¿Qué animal tiene las huellas dactilares más similares a las humanas?",
+        "options": ["Gorila", "Oso panda", "Koala", "Chimpancé"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "¿Cuánto tiempo puede vivir una tortuga gigante de Galápagos?",
+        "options": ["50 años", "100 años", "150 años", "Más de 200 años"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "¿Qué animal tiene el cerebro más grande en proporción a su cuerpo?",
+        "options": ["Delfín", "Humano", "Hormiga", "Pulpo"],
+        "correctAnswer": 1
+      }
+    ]
+  }
